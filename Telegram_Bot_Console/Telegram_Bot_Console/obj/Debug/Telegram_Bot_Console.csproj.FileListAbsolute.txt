@@ -1,0 +1,22 @@
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe.config
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.pdb
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.dll
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.dll
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojResolveAssemblyReference.cache
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.exe
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.pdb
+D:\Программы лб\Telegram_Bot\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\ApiAiSDK.dll
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe.config
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.exe
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.pdb
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.pdb
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\ApiAiSDK.dll
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.dll
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.dll
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
+D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojResolveAssemblyReference.cache
