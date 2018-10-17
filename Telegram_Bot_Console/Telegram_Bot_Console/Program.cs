@@ -60,7 +60,7 @@ namespace Telegram_Bot_Console
 
             Console.WriteLine($"{name} отправил сообщение: '{message.Text}'");
 
-            switch (message.Text)
+            switch (message.Text) 
             {
                 case "/start":
                     string text = 
@@ -72,7 +72,7 @@ namespace Telegram_Bot_Console
                     await Bot.SendTextMessageAsync(message.From.Id, text);
                     break;
 
-                case "/inline":
+                case "/inline":///это для вывод меню
                     var inlineKeyboard = new InlineKeyboardMarkup(new[]
                     {
                         new []
