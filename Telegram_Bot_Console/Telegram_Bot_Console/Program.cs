@@ -15,8 +15,8 @@ namespace Telegram_Bot_Console
         static void Main(string[] args)
         {
             Bot = new TelegramBotClient("638687925:AAH1-dP7iqNfQ0UsBFcJEWqqj274oIVmPWw");
-            //AIConfiguration config = new AIConfiguration("6b8c414af71a49aaa5025565f213c3cd", SupportedLanguage.Russian);
-            //apiAi = new ApiAi(config);
+            AIConfiguration config = new AIConfiguration("6b8c414af71a49aaa5025565f213c3cd", SupportedLanguage.Russian);
+            apiAi = new ApiAi(config);
 
             Bot.OnMessage += Bot_OnMessageReceived;
             Bot.OnCallbackQuery += Bot_OnCallbackQueryReceived;
@@ -60,63 +60,63 @@ namespace Telegram_Bot_Console
 
             Console.WriteLine($"{name} отправил сообщение: '{message.Text}'");
 
-            switch (message.Text)
+            switch (message.Text) 
             {
-                //case "/start":
-                //    string text =
-                //        @"Список команд:
-                //        /start - запуск бота
-                //        /inline - вывод меню
-                //        /keyboard - вывод клавиатуры
-                //        ";
-                //   await Bot.SendTextMessageAsync(message.From.Id, text);
-                //    break;
+                case "/start":
+                    string text = 
+                        @"Список команд:
+                        /start - запуск бота
+                        /inline - вывод меню
+                        /keyboard - вывод клавиатуры
+                        ";
+                    await Bot.SendTextMessageAsync(message.From.Id, text);
+                    break;
 
-                //case "/inline":
-                //    var inlineKeyboard = new InlineKeyboardMarkup(new[]
-                //    {
-                //        new []
-                //        {
-                //            InlineKeyboardButton.WithUrl("Instagram","https://www.instagram.com/nbamemes/"),
-                //            InlineKeyboardButton.WithUrl("Telegram","https://web.telegram.org/#/im?p=@BotFather"),
-                //        },
+                case "/inline":///это для вывод меню
+                    var inlineKeyboard = new InlineKeyboardMarkup(new[]
+                    {
+                        new []
+                        {
+                            InlineKeyboardButton.WithUrl("Instagram","https://www.instagram.com/nbamemes/"),
+                            InlineKeyboardButton.WithUrl("Telegram","https://web.telegram.org/#/im?p=@BotFather"),
+                        },
 
-                //        new[]
-                //        {
-                //            InlineKeyboardButton.WithCallbackData("Картинка"),
-                //            InlineKeyboardButton.WithCallbackData("Видео")
-                //        }
-                //    });
-                //    await Bot.SendTextMessageAsync(message.From.Id, "Выберите пункт меню", 
-                //            replyMarkup: inlineKeyboard);
-                //    break;
+                        new[]
+                        {
+                            InlineKeyboardButton.WithCallbackData("Картинка"),
+                            InlineKeyboardButton.WithCallbackData("Видео")
+                        }
+                    });
+                    await Bot.SendTextMessageAsync(message.From.Id, "Выберите пункт меню",
+                            replyMarkup: inlineKeyboard);
+                    break;
 
-                //case "/keyboard":
-                //    var replyKeyboard = new ReplyKeyboardMarkup(new[]
-                //    {
-                //    new[]
-                //    {
-                //        new KeyboardButton("Привет"),
-                //        new KeyboardButton("Как дела?")
-                //    },
-                //    new[]
-                //    {
-                //        new KeyboardButton("Контакт") { RequestContact = true },
-                //        new KeyboardButton("Геолакация") {RequestLocation = true }
-                //    }
-                //    });
-                //    await Bot.SendTextMessageAsync(message.Chat.Id, "Сообщение",
-                //        replyMarkup: replyKeyboard);
-                //    break;
+                case "/keyboard":
+                    var replyKeyboard = new ReplyKeyboardMarkup(new[]
+                    {
+                    new[]
+                    {
+                        new KeyboardButton("Привет"),
+                        new KeyboardButton("Как дела?")
+                    },
+                    new[]
+                    {
+                        new KeyboardButton("Контакт") { RequestContact = true },
+                        new KeyboardButton("Геолакация") {RequestLocation = true }
+                    }
+                    });
+                    await Bot.SendTextMessageAsync(message.Chat.Id, "Сообщение",
+                        replyMarkup: replyKeyboard);
+                    break;
 
                 default:
-                    //var response = apiAi.TextRequest(message.Text);
-                    //string answer = response.Result.Fulfillment.Speech;
-                    //if(answer == "")
-                    
-                    //    answer = "Я не понял что ты сказал";
-                    //await Bot.SendTextMessageAsync(message.From.Id, answer);
-                    
+                    var response = apiAi.TextRequest(message.Text);
+                    string answer = response.Result.Fulfillment.Speech;
+                    if (answer == "")
+
+                        answer = "Я не понял что ты сказал";
+                    await Bot.SendTextMessageAsync(message.From.Id, answer);
+
                     break;
             }
         }

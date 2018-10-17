@@ -20,3 +20,14 @@ D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Tele
 D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
 D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
 D:\Программы лб\Works of mine\Telegram_Bots\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojResolveAssemblyReference.cache
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe.config
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.exe
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.pdb
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.pdb
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\ApiAiSDK.dll
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.dll
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.dll
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
+C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojResolveAssemblyReference.cache
