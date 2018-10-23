@@ -31,3 +31,16 @@ C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot
 C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
 C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
 C:\OpenServer\domains\priem_komis\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe.config
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.exe
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram_Bot_Console.pdb
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\ApiAiSDK.dll
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.dll
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\bin\Debug\Telegram.Bot.xml
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.csproj.CopyComplete
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.exe
+C:\Users\Acer\Documents\GitHub\Okonov-Erkinov-Birimkulov-PI-1-15\Telegram_Bot_Console\Telegram_Bot_Console\obj\Debug\Telegram_Bot_Console.pdb
