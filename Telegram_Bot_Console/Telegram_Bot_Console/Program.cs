@@ -53,12 +53,12 @@ namespace Telegram_Bot_Console
         {
             var message = e.Message;
 
-            //if (message == null || message.Type != MessageType.Text)
-            //    return;    
+            if (message == null || message.Type != MessageType.Text)
+                return;
 
-            //string name = $"{message.From.FirstName} {message.From.LastName}";
+            string name = $"{message.From.FirstName} {message.From.LastName}";
 
-            //Console.WriteLine($"{name} отправил сообщение: '{message.Text}'");
+            Console.WriteLine($"{name} отправил сообщение: '{message.Text}'");
 
             switch (message.Text) 
             {
