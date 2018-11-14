@@ -91,31 +91,31 @@ namespace Telegram_Bot_Console
                             replyMarkup: inlineKeyboard);
                     break;
 
-                //case "/keyboard":
-                //    var replyKeyboard = new ReplyKeyboardMarkup(new[]
-                //    {
-                //    new[]
-                //    {
-                //        new KeyboardButton("Привет"),
-                //        new KeyboardButton("Как дела?")
-                //    },
-                //    new[]
-                //    {
-                //        new KeyboardButton("Контакт") { RequestContact = true },
-                //        new KeyboardButton("Геолакация") {RequestLocation = true }
-                //    }
-                //    });
-                //    await Bot.SendTextMessageAsync(message.Chat.Id, "Сообщение",
-                //        replyMarkup: replyKeyboard);
-                //    break;
+                case "/keyboard":
+                    var replyKeyboard = new ReplyKeyboardMarkup(new[]
+                    {
+                    new[]
+                    {
+                        new KeyboardButton("Привет"),
+                        new KeyboardButton("Как дела?")
+                    },
+                    new[]
+                    {
+                        new KeyboardButton("Контакт") { RequestContact = true },
+                        new KeyboardButton("Геолакация") {RequestLocation = true }
+                    }
+                    });
+                    await Bot.SendTextMessageAsync(message.Chat.Id, "Сообщение",
+                        replyMarkup: replyKeyboard);
+                    break;
 
                 default:
-                    //var response = apiAi.TextRequest(message.Text);
-                    //string answer = response.Result.Fulfillment.Speech;
-                    //if (answer == "")
+                    var response = apiAi.TextRequest(message.Text);
+                    string answer = response.Result.Fulfillment.Speech;
+                    if (answer == "")
 
-                    //    answer = "Я не понял что ты сказал";
-                    //await Bot.SendTextMessageAsync(message.From.Id, answer);
+                        answer = "Я не понял что ты сказал";
+                    await Bot.SendTextMessageAsync(message.From.Id, answer);
 
                     break;
             }
